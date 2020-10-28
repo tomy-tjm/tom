@@ -1,0 +1,10 @@
+#include<stdio.h>
+void main()
+{
+printf("ënter the num");
+scanf("%d",&a);
+printf("ënter the num");
+scanf("%d",&b);
+sum=a%b;
+printf("the mod of the number is %d",mod);
+}
